@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * check_cycle - check for loop in -LL-
+ * check_cycle - check for loop in LL
  * @list: head of linked list
  *
  * Description - check for loops in LL
@@ -28,4 +28,4 @@ int check_cycle(listint_t *list)
 		fast = fast->next->next;
 	}
 	return (0);
-}
+}}

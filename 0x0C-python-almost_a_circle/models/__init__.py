@@ -3,8 +3,6 @@
 
 #!/usr/bin/python3
 
-""" defines init py"""
-
 
 import json
 
